@@ -1,0 +1,3 @@
+variable "action" {
+    type = string  
+}
